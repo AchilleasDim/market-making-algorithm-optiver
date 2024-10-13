@@ -6,8 +6,8 @@ The algorithm implements market-making strategies for stocks, options, and futur
 
 Features
 
-Market-Making Strategy: Implements dynamic bid and ask pricing based on the Black-Scholes model and real-time market data.
-Delta Hedging: Adjusts the portfolio to maintain a balanced risk exposure.         
+Market-Making Strategy: Implements dynamic bid and ask pricing based on the Black-Scholes model and real-time market data.                        
+Delta Hedging: Adjusts the portfolio to maintain a balanced risk exposure.                              
 Inventory Management: Manages position limits by updating orders and adjusting volumes to prevent overexposure.
 
 How It Works
